@@ -1,0 +1,11 @@
+h1{
+width: 10px;
+
+}
+ul.nav li :hover{
+    transform: scale(1.5);
+    background: #d4a373;
+    opacity: 1;
+
+}
+
